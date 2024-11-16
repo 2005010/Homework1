@@ -1,0 +1,15 @@
+C:\Progects of my university\Advanced programming\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+C:\Progects of my university\Advanced programming\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+C:\Progects of my university\Advanced programming\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+C:\Progects of my university\Advanced programming\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+C:\Progects of my university\Advanced programming\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+C:\Progects of my university\Advanced programming\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll
